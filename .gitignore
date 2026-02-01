@@ -1,0 +1,15 @@
+# Gradle build output
+/build/
+
+# Gradle cache & wrapper internals
+.gradle/
+
+# Gradle distribution
+gradle-*/
+
+# OS files
+*.zip
+
+# Logs
+*.log
+
